@@ -29,6 +29,6 @@ Time series and machine learning project for predicting Bitcoin price direction 
 I’m interested in opportunities in Data, Machine Learning, Analytics Engineering, and Applied AI, especially roles involving production-oriented data systems and intelligent applications.
 
 ## Contact
-- LinkedIn: [add your link here]
-- Email: [add your email here]
+- LinkedIn: [https://www.linkedin.com/in/hu-fernandes/]
+- Email: [hugo.lbfernandes@gmail.com]
 
