@@ -1,35 +1,34 @@
-### Hello everyone 👋
+# Hugo Fernandes
 
-I am a Production Engineer fascinated with solving problems through data.
+Data professional focused on data pipelines, analytics engineering, machine learning, and applied AI.
 
-Also passionated with sports and will be working some projects within this subject in the future during my free time.
+I build end-to-end projects involving data extraction, transformation, modeling, analytics, and AI applications. My recent work is centered on:
+- ETL/ELT pipelines with Python, SQL, DuckDB, and workflow orchestration
+- Retrieval-Augmented Generation (RAG) for document-based question answering
+- Analytical dashboards and data products
+- Predictive modeling and experimentation
 
-## Projects
+## Featured Projects
 
-* https://github.com/hfernandescfc/covid - Focused on following up to date information of covid in my state, on this project I scrapped data provided by
-the government and manipulated it in order to create multiple visualizations such as most frequent syntomns, number of new cases and deaths and hospitalizations.
+### [CL_helper](https://github.com/hfernandescfc/CL_helper)
+End-to-end football data pipeline using Python, Prefect, DuckDB, and bronze/silver/gold layers. Includes ingestion workflows, data modeling, metrics generation, and a Streamlit app for exploration.
 
-* https://github.com/hfernandescfc/RaspandoCartola - Still a work in progress. On this project I got data from Cartola API and manipulated it with pandas and numpy
-in order to create DataFrames to further analyse data from the fantasy game. The goal here is to create visualizations using statistics to predict future performances.
+### [RAG_PCS](https://github.com/hfernandescfc/RAG_PCS)
+RAG application built to support document search and question answering over technical documentation from the Programa Cidade Saneada. Focused on information retrieval, document processing, and AI-assisted access to domain knowledge.
 
-* https://github.com/hfernandescfc/House_Predictions - Working on the famous dataset of house prices. On this notebook I tried to go through all the steps
-that are necessary to deploy a regression machine learning algorithm. I described what was in my mind in each step so it could be used as a guide for other begginers.
-On it there is a preprocessing step where I handled with missing values and with the different data types. I Further perform a simple EDA to understand the relationship between the variables. After that, the data was transformed with scikit-learn and then fitted to some regression models. 
+### [Dash_Pixotada](https://github.com/hfernandescfc/Dash_Pixotada)
+Analytical dashboard project for Pixotada 2026, combining Python-based data processing and static dashboard publishing for model comparison, player impact analysis, and score recommendation workflows.
 
+### [Bitcasting](https://github.com/hfernandescfc/Bitcasting)
+Time series and machine learning project for predicting Bitcoin price direction using blockchain metrics, technical indicators, and multiple forecasting horizons.
 
+## Tech Stack
+`Python` `SQL` `DuckDB` `Pandas` `Scikit-learn` `Prefect` `Streamlit` `Plotly` `Jupyter` `Git`
 
+## What I’m Looking For
+I’m interested in opportunities in Data, Machine Learning, Analytics Engineering, and Applied AI, especially roles involving production-oriented data systems and intelligent applications.
 
-<!--
-**hfernandescfc/hfernandescfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+- LinkedIn: [add your link here]
+- Email: [add your email here]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
