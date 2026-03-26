@@ -1,6 +1,6 @@
 # Hugo Fernandes
 
-Data professional focused on data pipelines, analytics engineering, machine learning, and applied AI.
+Senior Data Scientist & ML Engineer with 8+ years in production systems.
 
 I build end-to-end projects involving data extraction, transformation, modeling, analytics, and AI applications. My recent work is centered on:
 - ETL/ELT pipelines with Python, SQL, DuckDB, and workflow orchestration
@@ -29,6 +29,6 @@ Time series and machine learning project for predicting Bitcoin price direction 
 I’m interested in opportunities in Data, Machine Learning, Analytics Engineering, and Applied AI, especially roles involving production-oriented data systems and intelligent applications.
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/hu-fernandes/]
-- Email: [hugo.lbfernandes@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/hu-fernandes/
+- Email: hugo.lbfernandes@gmail.com
 
